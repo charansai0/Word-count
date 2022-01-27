@@ -32,9 +32,9 @@ print("Number of words = ",num_of_words)
 
 ~~~
 ### OUTPUT:
-![OUTPUT]()
+![OUTPUT](https://github.com/charansai0/Word-count/blob/main/Screenshot%20(230).png?raw=true)
 
-![OUTPUT]()
+![OUTPUT](https://github.com/charansai0/Word-count/blob/main/Screenshot%20(231).png?raw=true)
 
 
 ## RESULT:
